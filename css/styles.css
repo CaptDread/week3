@@ -1,0 +1,53 @@
+.answers{
+    display: flex;
+    flex-direction: column;
+    margin: 0% 5% 1% 5%;
+}
+
+.radbutts{
+    display: flex;
+}
+
+.radButts span{
+    font-style: italic;
+}
+
+.hero{
+    width: 40%;
+    height: 40%;
+    margin:5% 30%;
+    border: .13em purple solid;
+    border-radius: .42em;
+    overflow: hidden;
+}
+
+.hero section{
+    display: none;
+    position: relative;
+    top: 0%;
+}
+
+.hero section.active{
+    display: block;
+}
+
+.nextButt{
+    margin-top: auto;
+    margin-left: 1%;
+    margin-bottom: 1%;
+}
+
+#question2 .nextButt{
+    width: 60px;
+    height: 20px;
+    margin-bottom: -.5%;
+    margin-left: -4.5%;
+}
+
+h2{
+    margin: 1% 1% 1% 1%;
+}
+
+p{
+    margin: 5% 1% 1% 1%;
+}

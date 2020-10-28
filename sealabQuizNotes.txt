@@ -1,0 +1,95 @@
+Mighty boosh quiz
+only one question and answer set should appear on the screen.
+the user must pick an answer and press the NEXT button.
+at the end, it tells them who they are, based on their answers.
+
+Question 1:
+Today is the day of your Sealab interview. The interviewer ask for your favorite marine life fact. You say?
+1.Hmm, favorite whatsit now?	(Murphy)
+2.Dolphins go crazy over menstruation.	(Debby)
+3.oh oh I like to swim, doesnt that make me marine life!	(Stormy)
+4.An octopus is able to open jars and solve puzzles all for food, magnificent.	(Quin)
+5.Ingesting the Fugu fish can be posionus. Unrelated would you like to try this "herbal Supplement" I made.	(Sparks)
+6.Sharks never stop moving. Kind of like me HAHA!	(Marco)
+7.*you loudly state in third person that you dont know any so you bust a fish rap instead.	(hesh)
+
+Question 2:
+Some how you manage to get hired, and today is your first day living on the sea floor.  What do you feel like doing most now that you're all settled?
+1.I could go for a round of golf.	(Murphy)
+2.Hit on the scientist.	(Debby)
+3.Dodgeball! 	(Stormy)
+4.What I got hired to do, research!	(Quin)
+5.Start my own secret agenda.	(Sparks)
+6.Introduce yourself to the Captain	(Marco)
+7.Find a bar	(Hesh)
+
+Question 3:
+You're in your bed sleeping after working a 32 hour shift at the dolphin enclosure. When suddenly, the alarm starts going off, and orders all SeaLab officials to get into battlestations. Turns out the captain is freaking out about a lost Happy Cake Oven toy. And now wants you to go look for it, inside a cave rumored to be hiding a giant squid.
+1.Loudly claim that its not just a toy.	(Murphy)
+2.Complain about the alarm 	(Debby)
+3.But its a suicide mission. 	(Stormy)
+4.Attempt to Reason with the Captain.	(Quin)
+5.Yeah I turned that into a bomb and ditched it outside..	(Sparks)
+6.Remind the captain of the last time the crew mutinied.	(Marco)
+7. Sneak back to bed.	(Hesh)
+
+Question 4:
+All the lights on Sealab have went out, its pitch black and no one can see.  
+1.This is fine, I don't trust those things anyway.	(Murphy)
+2.Check underwear drawer for your spare flashlight.	(Debby)
+3.Pull out a lighter to get a good look around.	(Stormy)
+4.Feel your way to the generaotor room, to fix it.	(Quin)
+5.Perfect, this gives you a chance to move those things you dont want anyone to see.	(Sparks)
+6.Silently steal some stuff from the rest of the crew.	(Marco)
+7.Attempt to keep working in the dark.	(Hesh)
+
+Question 5:
+Congratz on surviving your first year of Marine Biology! The captain has you out rewiring a near by cable to give him access to Pay per View free. Unfortunatly, something goes wrong and you are sent back intime 10 minutes via a giant explosion. Upon getting back to Sealab the captain accuses you of being a doppleganger and throws you in the brig. If you don't do something you will be die in around 10 minutes. 
+1.Find a way to get revenge on the "doppleganger" captain.	(Murphy)
+2.Attempt to seduce the officals on guard	(Debby)
+3.Dodgeball! 	(Stormy)
+4.Find away to contact past you.	(Quin)
+5.Enact that secret plan you've been hidding from the rest of the crew.	(Sparks)
+6.Break out, and try to escape the blast.	(Marco)
+7.Party!	(Hesh)
+
+Question 6:
+Wow, crazy year, You've nearly died atleast 6 different times, in the last month alone. Thankfully the Sealab scientist have created a way to move the human brain into a robot body. What are you're prefrences.
+1.A beautiful busty robot, with chainsaws for hands.	(Murphy)
+2.Camo, who needs xray vision anyway.	(Debby)
+3.Oh oh do me next, do me next. *begin cutting at head* 	(Stormy)
+4.I am already a human brain in a robot body...	(Quin)
+5.Make me the leader of my own voltron.	(Sparks)
+6.I want to robot willies. and xray vision.	(Marco)
+7.A robot Tiger	(Hesh)
+
+Question 7:
+It's been 2 years since you became a marine Biologist at Sealab, and the robot wars are in full swing. Where are you during these robot wars!?
+1.Fighting in the Robot wars.	(Murphy)
+2.You're now married to a "well-endowed" scientist, stuck in a coma. 	(Debby)
+3.Nobody knows... not even you...	(Stormy)
+4.Still working in Sealab, without you this place would've implouded by now.	(Quin)
+5.Incharge of your own secret lair, complete with henchmen, and doomsday Weapons.	(Sparks)
+6.Went into hiding.	(Marco)
+7.Probably died in the first wave...	(Hesh)
+
+
+
+1.(Murphy)
+	Congratz you got Captain Murphy, This means your probably quite childish, yet very strong willed and stubborn. Easily disctracted, but always quick to act.
+2.(Debby)
+	Woo, you got Debby, The over sexualized femme fatale of Sealab. which probably means you're Ambitious, controlling, and obsess over not being single.
+3.(Stormy)
+	
+4.(Quin)
+
+5.(Sparks)
+
+6.(Marco)
+
+7.(Hesh)
+
+
+
+
+
