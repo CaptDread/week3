@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mighty Boosh quiz</title>
+    <title>Marine Biologist Quiz</title>
 
     <link rel="stylesheet" href="css/reset.css">
     <link rel='stylesheet' href='css/styles.css'>
@@ -12,7 +12,7 @@
     <div class='hero'>
         <section class='active' id='coverPage'>
             <div>
-                <h2>Which Sealab character are you?</h2>
+                <h1>Which Sealab character are you?</h1>
                 <p>Have you ever wondered what kind of marine biologist you'd be if you just so happened to be a marine biologist living in a series of labs sitting at the bottom of the ocean... Ahem Marine biologist quiz, with a twist!</p>
                 <input class='nextButt' type="button" id="next" name="nextbutt" value="Start">
             </div>
@@ -35,7 +35,7 @@
                         <label  for='st1'>oh oh I like to swim, doesnt that make me marine life!</label>
                     </div>
                     <div class="radButts">
-                        <input class='rb' type='radio' id='qn1' name='qt1' value=quino'>
+                        <input class='rb' type='radio' id='qn1' name='qt1' value='quin'>
                         <label  for='qn1'>An octopus is able to open jars and solve puzzles all for food, <span>magnificent.</span></label>
                     </div>
                     <div class='radButts'>
@@ -355,7 +355,14 @@
             </div>
         </section>
         <section class='' id='resultPage'>
-
+            <div class='results'>
+                <div class="resReveal">
+                    <h3>You are...</h3>
+                    <h3 class='resId'></h3>
+                </div>
+                <p class='resDes'></p>
+            </div>
+            <img class="resImg" src="" alt="">
         </section>
     </div>
 

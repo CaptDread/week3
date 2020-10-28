@@ -13,9 +13,9 @@
 }
 
 .hero{
-    width: 40%;
-    height: 40%;
-    margin:5% 30%;
+    width: 50%;
+    min-height: 30em;
+    margin:10% 25%;
     border: .13em purple solid;
     border-radius: .42em;
     overflow: hidden;
@@ -32,22 +32,67 @@
 }
 
 .nextButt{
-    margin-top: auto;
     margin-left: 1%;
     margin-bottom: 1%;
 }
 
 #question2 .nextButt{
-    width: 60px;
+    width: 45px;
     height: 20px;
-    margin-bottom: -.5%;
-    margin-left: -4.5%;
+    margin-bottom: 1%;
+    margin-left: -1.5%;
 }
+
+section{
+    position: relative;
+    padding: 1.3em;
+}
+
+section .nextButt{
+    position: fixed;
+    bottom: 28%;
+}
+
+h1{
+    font-size: 4.2em;
+}
+
+.question p{
+    font-size: 1em;
+}
+
+#coverPage p{
+    font-size: 1.3em;
+}
+
 
 h2{
     margin: 1% 1% 1% 1%;
+    font-size: 2.4em;
 }
 
 p{
     margin: 5% 1% 1% 1%;
+}
+
+.resButt{
+    position: fixed;
+    bottom: 30%;
+}
+
+#resultPage{
+    display: flex;
+}
+
+.resReveal{
+    display: none;
+}
+
+h3{
+    font-size: 2.4em;
+
+}
+
+.resId{
+    font-size: 3em;
 }
